@@ -1,0 +1,242 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "59:EE:54:90:FB:EE:AA:81:10:69:EB:E7:0E:90:19:55:76:6B:75:2D:60:E0:97:F2:A5:68:7B:D9:2B:47:90:AE"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "ED:FB:E9:B5:03:D0:3A:DB:4F:D9:81:26:F8:B2:0E:67:CF:60:AF:E7:AE:DF:21:A3:96:2B:6F:30:EC:73:18:D2"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "15:D7:B6:42:42:BD:7E:D9:9D:BA:73:24:74:8B:E7:A7:99:2A:72:6F:66:71:21:5F:71:B6:0F:CF:E1:EA:29:2E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "A9:F6:2F:48:E1:A9:83:77:66:1E:94:AF:F2:7D:4B:F2:68:05:0F:D7:58:F8:12:82:2A:21:19:6D:1C:B8:18:EB"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "8B:BE:5A:0F:C0:B6:56:AD:A6:7A:D2:A7:AE:C7:6D:92:7F:F4:2C:E7:6C:F6:65:23:5B:68:E3:E2:FD:A2:62:A5"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "B0:7B:47:E8:09:C2:0C:EC:4E:60:58:BD:79:34:51:DE:34:65:4F:0C:E8:4B:56:3A:C8:E8:73:83:A5:14:B1:44"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "69:3E:9D:35:65:FC:A6:8D:54:97:00:69:0D:F7:71:CC:65:7A:25:F5:C2:83:FD:7C:66:52:F3:3B:36:99:82:7E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "AE:40:D2:C4:2D:B9:10:88:E5:7E:20:C5:88:B9:75:B0:36:02:4B:49:72:17:31:02:D0:A9:E6:6C:23:72:29:6D"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "8B:28:ED:43:C1:B8:F4:9A:46:76:77:3D:B1:9B:E5:C7:A9:28:76:E4:C4:0D:FE:15:EC:38:81:0E:41:21:74:D0"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "B8:86:D3:9E:3E:73:60:6B:E2:3F:22:85:6E:11:AE:FB:54:1E:EE:C7:6E:E4:08:21:6D:D1:68:E3:AE:40:F0:B4"
+      ]
+    }
+  },
+{
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "DC:35:5F:B7:34:F7:C1:BC:F9:DB:05:99:DD:64:E0:60:6A:C1:BF:04:44:27:03:51:A1:C7:AE:74:57:B5:EC:00"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "B7:DB:61:72:4C:D7:6F:D8:47:0D:A1:7D:5F:CA:7F:B4:81:04:60:BF:EE:45:4C:2D:02:DE:06:05:29:96:6A:CF"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "46:F9:07:C4:3C:73:B9:CA:70:3E:86:72:43:17:19:6C:70:9C:03:B8:09:2B:6F:98:9A:44:E6:0D:10:02:DC:9D"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "89:4F:6D:1C:B7:1D:F7:DE:46:64:D0:64:4C:44:61:AD:3E:A4:CC:E6:F5:B8:F9:D5:22:29:5B:7C:CA:AD:2E:8A"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46stg",
+      "sha256_cert_fingerprints": [
+        "15:D7:B6:42:42:BD:7E:D9:9D:BA:73:24:74:8B:E7:A7:99:2A:72:6F:66:71:21:5F:71:B6:0F:CF:E1:EA:29:2E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "AA:17:99:F6:FE:82:69:A5:36:74:60:C3:0E:64:3C:CB:E7:09:81:4E:13:63:75:57:9F:EC:50:AD:C4:C9:3D:F4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46stg",
+      "sha256_cert_fingerprints": [
+        "AA:17:99:F6:FE:82:69:A5:36:74:60:C3:0E:64:3C:CB:E7:09:81:4E:13:63:75:57:9F:EC:50:AD:C4:C9:3D:F4"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "89:4F:6D:1C:B7:1D:F7:DE:46:64:D0:64:4C:44:61:AD:3E:A4:CC:E6:F5:B8:F9:D5:22:29:5B:7C:CA:AD:2E:8A"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "2F:51:5B:A6:91:34:03:05:02:FA:FA:68:3A:EA:80:91:64:12:AB:E9:EF:8A:1B:F0:8E:A4:4A:E3:A0:74:7B:2F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
+        "2F:51:5B:A6:91:34:03:05:02:FA:FA:68:3A:EA:80:91:64:12:AB:E9:EF:8A:1B:F0:8E:A4:4A:E3:A0:74:7B:2F"
+      ]
+    }
+  }
+]
