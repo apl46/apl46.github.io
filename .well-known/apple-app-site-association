@@ -19,6 +19,22 @@
         ]
       },
       {
+        "appID": "VZAW594BR5.id.co.bni.newagenbni46.stg.staging",
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
+      },
+      {
+        "appID": "VZAW594BR5.id.co.bni.newagenbni46.stg.dev",
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
+      },
+      {
         "appID": "VZAW594BR5.id.co.bni.newagenbni46.stg",
         "components": [
           {
