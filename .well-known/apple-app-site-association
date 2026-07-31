@@ -19,47 +19,7 @@
         ]
       },
       {
-        "appID": "VZAW594BR5.id.co.bni.newagenbni46.stg.staging",
-        "components": [
-          {
-            "/": "*"
-          }
-        ]
-      },
-      {
-        "appID": "VZAW594BR5.id.co.bni.newagenbni46.stg.dev",
-        "components": [
-          {
-            "/": "*"
-          }
-        ]
-      },
-      {
-        "appID": "VZAW594BR5.id.co.bni.newagenbni46stg.dev",
-        "components": [
-          {
-            "/": "*"
-          }
-        ]
-      },
-      {
-        "appID": "VZAW594BR5.id.co.bni.newagenbni46stg.staging",
-        "components": [
-          {
-            "/": "*"
-          }
-        ]
-      },
-      {
         "appID": "VZAW594BR5.id.co.bni.newagenbni46stg",
-        "components": [
-          {
-            "/": "*"
-          }
-        ]
-      },
-      {
-        "appID": "VZAW594BR5.id.co.bni.newagenbni46.stg",
         "components": [
           {
             "/": "*"
